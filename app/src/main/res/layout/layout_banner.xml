@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.statusbarutils.BannerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bannerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    app:autoPlayDuration="3000"
+    app:indicatorMargin="10dp"
+    app:indicatorPosition="rightBottom"
+    app:indicatorSpace="3dp"
+    app:paddingEnd="5dp"
+    app:paddingStart="5dp"
+    app:scrollDuration="900"
+    app:selectedIndicatorColor="#cf8309"
+    app:selectedIndicatorHeight="2dp"
+    app:selectedIndicatorShape="rect"
+    app:selectedIndicatorWidth="10dp"
+    app:unSelectedIndicatorColor="#fff"
+    app:unSelectedIndicatorHeight="2dp"
+    app:unSelectedIndicatorShape="rect"
+    app:unSelectedIndicatorWidth="10dp"/>
